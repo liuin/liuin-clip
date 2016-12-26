@@ -1,0 +1,19 @@
+{
+  "name": "liuin-clip",
+  "main": "./lib/liuin-clip",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "liuin-clip:toggle"
+  },
+  "repository": "https://github.com/atom/liuin-clip",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.1.0"
+  }
+}

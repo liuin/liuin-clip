@@ -1,0 +1,6 @@
+atom.confirm
+  message: 'How you feeling?'
+  detailedMessage: 'Be honest.'
+  buttons:
+    Good: -> window.alert('good to hear')
+    Bad: -> window.alert('bummer')

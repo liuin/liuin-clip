@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Word Count",
+        "command": "liuin-clip:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Word Count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "liuin-clip:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
