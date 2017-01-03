@@ -1,0 +1,6 @@
+ '.source.css':
+  'css//弹性滚动条':
+      'prefix': 'css-scroll'
+      'body': """
+ -webkit-overflow-scrolling:touch; 
+      """

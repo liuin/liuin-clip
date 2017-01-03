@@ -1,0 +1,6 @@
+ '.source.css':
+  'css-//圆形颜色渐变':
+      'prefix': 'css-radial'
+      'body': """
+ background-image: radial-gradient(circle at top, #eee,#AFAFAF);background-image: -webkit-radial-gradient(top left, #eee,#AFAFAF); 
+      """

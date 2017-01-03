@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "liuin-clip:toggle"
+    "f7": "liuin-clip:rightPlan",
+    "ctrl-f7": "liuin-clip:addSnp"
   }
 }

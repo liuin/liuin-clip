@@ -1,0 +1,6 @@
+ '*':
+  'byd-getSkinUrl':
+      'prefix': 'byd-getSkinUrl'
+      'body': """
+ <?php echo $this->getSkinUrl("${1:images}") ?> 
+      """

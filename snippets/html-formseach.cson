@@ -1,0 +1,9 @@
+ '*':
+  'html搜索表单':
+      'prefix': 'html-formseach'
+      'body': """
+ <form action="#" class="formseach">
+  <input type="text" name="" id="" placeholder="订单号" />
+  <button type="submit">查看详情</button>
+</form> 
+      """

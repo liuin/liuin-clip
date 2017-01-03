@@ -5,14 +5,50 @@
 @import "ui-variables";
 
 .liuin-clip {
-  .message{font-size: 40px;}
+    .message {
+        font-size: 40px;
+    }
 
-  .snp-content {
-    max-height: 170px;
-  }
+    .snp-content {
+        max-height: 170px;
+    }
 }
 
+.liuin-clip-right {
+    width: 200px;
 
-.liuin-clip-right{
-  width: 200px;
+    atom-text-editor[mini].editor {
+        border: 1px solid #9e5e5e;
+        margin: 0 6px;
+    }
+
+    .select-list {
+        height: 100%;
+        padding-top: 10px;
+    }
+
+    .lab {
+        display: inline-block;
+        width: 90px;
+        text-indent: 3px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        vertical-align: middle;
+    }
+
+    .btn.del {
+        background: #7b0b20;
+        color: #fff;
+    }
+
+    .select-list ol.list-group {
+        height: 100%;
+        max-height: inherit;
+        padding-bottom: 50px;
+    }
+
+    .btn.mod {
+        background: #3e5a8c;
+        color: #fff;
+    }
 }

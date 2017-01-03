@@ -1,0 +1,6 @@
+ '.source.css':
+  'css-//底部可点击事件':
+      'prefix': 'css-pointer-even'
+      'body': """
+ pointer-events:none; 
+      """

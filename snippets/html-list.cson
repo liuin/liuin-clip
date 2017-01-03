@@ -1,8 +1,8 @@
-'.text.html, .source.js, .source.css':
-  'html-list-clip':
-    'prefix': 'html-list-clip'
-    'body': """
-<style type="text/css">
+ '.text.html, .source.js, .source.css':
+  'html-list':
+      'prefix': 'html-list'
+      'body': """
+ <style type="text/css">
   /*-- list1 --*/
   .list1 {line-height: 25px;}
   .list1 li{position:relative; padding-left:48px; margin-bottom:5px;}
@@ -17,5 +17,5 @@
   <li><span class="list1-count">5</span>报名后1-2个工作日没接到商家安排团购电话，请告知在线客服；</li>
   <li><span class="list1-count">6</span>商家确认购车后，礼品会在活动结束后10个工作日内邮递；</li>
   <li><span class="list1-count">7</span>其他不了解的情况，请咨询在线客服，我们将竭诚为您服务。</li>
-</ul><!-- /list1 -->
-    """
+</ul><!-- /list1 --> 
+      """
