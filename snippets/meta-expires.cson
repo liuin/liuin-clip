@@ -1,0 +1,6 @@
+ '*':
+  '缓存时间':
+      'prefix': 'meta-expires'
+      'body': """
+ <meta http-equiv="expires" content="0|Wed,26 Feb 1997 08:21:57: GMT" /> 
+      """

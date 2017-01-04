@@ -1,6 +1,6 @@
- '.text.html, .source.js, .source.css':
+ '*':
   '弹出框':
-      'prefix': 'ui-pop'
+      'prefix': 'js-pop'
       'body': """
  /**
 * extend 弹出框

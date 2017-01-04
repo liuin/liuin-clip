@@ -1,0 +1,6 @@
+ '*':
+  '以最高版本IE运行':
+      'prefix': 'meta-edge '
+      'body': """
+ <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+      """

@@ -1,0 +1,6 @@
+ '*':
+  'ca-beginPath()':
+      'prefix': 'ca-beginPath()'
+      'body': """
+ beginPath() 
+      """

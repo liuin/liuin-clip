@@ -1,0 +1,6 @@
+ '.source.css':
+  '//css3内部排列':
+      'prefix': 'css-justify-content'
+      'body': """
+ justify-content: flex-start|flex-end|center|space-between|space-around|initial|inherit;-webkit-justify-content: flex-start|flex-end|center|space-between|space-around|initial|inherit; 
+      """

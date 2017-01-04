@@ -1,0 +1,6 @@
+ '*':
+  'ie透明度':
+      'prefix': 'ie-op'
+      'body': """
+ filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100); 
+      """

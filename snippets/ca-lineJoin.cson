@@ -1,0 +1,6 @@
+ '*':
+  '两条线相交产生的拐角':
+      'prefix': 'ca-lineJoin'
+      'body': """
+ lineJoin = 'miter|bevel|round' 
+      """

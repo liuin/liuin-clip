@@ -1,0 +1,6 @@
+ '*':
+  '角度':
+      'prefix': 'ca-arc()'
+      'body': """
+ arc(pos.x,pos.y,rad,sAngle,eAngle,true); 
+      """

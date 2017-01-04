@@ -1,0 +1,6 @@
+ '*':
+  '10秒自动跳转':
+      'prefix': 'meta-refresh'
+      'body': """
+ <meta http-equiv="refresh" content="10|10; url=http://wwww.doyoe.com" /> 
+      """

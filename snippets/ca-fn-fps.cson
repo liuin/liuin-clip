@@ -1,0 +1,10 @@
+ '*':
+  '帧':
+      'prefix': 'ca-fn-fps'
+      'body': """
+ function calculateFps(now) {
+   var fps = 1000 / (now - lastTime);
+   lastTime = now;
+   return fps; 
+} 
+      """

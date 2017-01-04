@@ -1,0 +1,6 @@
+ '*':
+  '填充矩形边框':
+      'prefix': 'ca-strokeRect() '
+      'body': """
+ strokeRect(50,50,100,100) 
+      """

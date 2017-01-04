@@ -1,6 +1,6 @@
- '.text.html, .source.js, .source.css':
-  'ui-select':
-      'prefix': 'ui-select'
+ '*':
+  '选择控件':
+      'prefix': 'js-select'
       'body': """
  /**
 * extend 表单控件自定义

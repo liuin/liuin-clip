@@ -1,0 +1,12 @@
+ '*':
+  '绘制圆形':
+      'prefix': 'ca-fn-drawArc'
+      'body': """
+ function drawArc () {
+  ca.beginPath();
+  ca.arc(canvas.width/2,canvas.height/2,80,0,Math.PI*2,true);
+  ca.closePath();
+  ca.fillStyle="#ddd";
+  ca.fill();
+} 
+      """

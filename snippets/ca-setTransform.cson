@@ -1,0 +1,6 @@
+ '*':
+  '设置坐标移动后的位置':
+      'prefix': 'ca-setTransform'
+      'body': """
+ setTransform(m11, m12, m21, m22, dx, dy) 
+      """

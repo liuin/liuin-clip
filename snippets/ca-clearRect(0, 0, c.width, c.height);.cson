@@ -1,0 +1,6 @@
+ '*':
+  '矩形清空':
+      'prefix': 'ca-clearRect(0, 0, c.width, c.height);'
+      'body': """
+ clearRect(0, 0, c.width, c.height); 
+      """

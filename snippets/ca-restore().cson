@@ -1,0 +1,6 @@
+ '*':
+  '恢复画布环境':
+      'prefix': 'ca-restore()'
+      'body': """
+ restore() 
+      """

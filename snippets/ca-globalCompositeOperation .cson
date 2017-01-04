@@ -1,0 +1,6 @@
+ '*':
+  '图像重叠方式':
+      'prefix': 'ca-globalCompositeOperation '
+      'body': """
+ globalCompositeOperation = 'source-atop|source-in|source-out|source-over|destination-atop|destination-in|destination-out|destination-over|lighter|copy|xor' 
+      """

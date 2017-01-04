@@ -1,5 +1,5 @@
  '.source.css':
-  'css-//scrollbar滚动条':
+  '滚动条样式':
       'prefix': 'css-scrollbar'
       'body': """
  /*-- 滚动条 --*/

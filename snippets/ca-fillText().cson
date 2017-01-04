@@ -1,0 +1,9 @@
+ '*':
+  '设置文字':
+      'prefix': 'ca-fillText()'
+      'body': """
+ font= 'italic 30px sans-serif';
+textAlign = 'start|end|left|right|center';
+textBaseline = 'top|hanging|middle|alphabetic|ideographic|bottom'
+fillText(text,x,y,[maxWidth]); 
+      """

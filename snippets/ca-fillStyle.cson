@@ -1,0 +1,6 @@
+ '*':
+  '填充颜色':
+      'prefix': 'ca-fillStyle'
+      'body': """
+ fillStyle="${1:#fff}"; 
+      """

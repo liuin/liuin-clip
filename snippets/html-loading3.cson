@@ -1,4 +1,4 @@
- '.text.html, .source.js, .source.css':
+ '*':
   '预加载3':
       'prefix': 'html-loading3'
       'body': """

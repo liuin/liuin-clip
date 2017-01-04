@@ -1,0 +1,6 @@
+ '*':
+  '位移':
+      'prefix': 'ca-translate'
+      'body': """
+ translate(25,25) 
+      """

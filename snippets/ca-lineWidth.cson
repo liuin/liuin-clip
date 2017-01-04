@@ -1,0 +1,6 @@
+ '*':
+  '线粗度':
+      'prefix': 'ca-lineWidth'
+      'body': """
+ lineWidth=1 
+      """

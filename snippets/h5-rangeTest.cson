@@ -1,0 +1,21 @@
+ '*':
+  '选择的文字':
+      'prefix': 'h5-rangeTest'
+      'body': """
+ function rangeTest()
+{
+    var html,
+    showRangeDiv=document.getElementById("showRange"),
+    selection=document.getSelection();
+    if(selection.rangeCount>0)
+    {
+        html="您选取了"+selection.rangeCount+"段内容<br/>";
+        for(var i=0;i<selection.rangeCount;i++)
+        {
+            var range=selection.getRangeAt(i);
+            html+="第"+(i+1)+"段的内容为："+range+"<br/>";
+        }
+        showRangeDiv.innerHTML=html;
+    }
+} 
+      """

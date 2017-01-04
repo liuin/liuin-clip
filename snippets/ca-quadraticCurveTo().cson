@@ -1,0 +1,6 @@
+ '*':
+  '二次样曲线':
+      'prefix': 'ca-quadraticCurveTo()'
+      'body': """
+ quadraticCurveTo(dx + x * s,dy + y * s - 100,dx + x * s + 100,dy + y * s);   
+      """

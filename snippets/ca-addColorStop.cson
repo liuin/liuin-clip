@@ -1,0 +1,6 @@
+ '*':
+  '颜色渐变':
+      'prefix': 'ca-addColorStop'
+      'body': """
+ addColorStop(0,'blue') 
+      """

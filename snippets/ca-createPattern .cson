@@ -1,0 +1,6 @@
+ '*':
+  '图像平铺':
+      'prefix': 'ca-createPattern '
+      'body': """
+ createPattern(image,${1:'repeat|no-repeat|repeat-x|repeat-y'});  
+      """

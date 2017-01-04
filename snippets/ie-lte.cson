@@ -1,0 +1,8 @@
+ '*':
+  'IE6和低于Ie6可见':
+      'prefix': 'ie-lte'
+      'body': """
+ <!--[if lte IE 6]>
+    
+<![endif]--> 
+      """

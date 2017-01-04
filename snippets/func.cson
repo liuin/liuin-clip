@@ -1,0 +1,8 @@
+ '*':
+  'js函数':
+      'prefix': 'func'
+      'body': """
+ function ${1:name}() {
+  
+} 
+      """

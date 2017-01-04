@@ -1,0 +1,6 @@
+ '.js,.coffee':
+  'alert()':
+      'prefix': 'ale'
+      'body': """
+ alert(${1:"121212"}); 
+      """
