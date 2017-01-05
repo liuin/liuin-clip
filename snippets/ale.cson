@@ -1,4 +1,4 @@
- '.js,.coffee':
+ '*':
   'alert()':
       'prefix': 'ale'
       'body': """

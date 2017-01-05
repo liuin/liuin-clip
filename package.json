@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.1.0",
-    "coffee-script": "~1.9"
+    "coffee-script": "~1.9",
+    "fs-plus": ">=1.0.0"
   }
 }
