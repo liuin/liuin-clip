@@ -36,8 +36,8 @@
       phoneScale = phoneWidth/Fixmobile.width,
       ua = navigator.userAgent,
       headmate;
-      if (/Android (d+.d+)/.test(ua)){
-        var version = parseFloat(RegExp.);
+      if (/Android (\\d+\\.\\d+)/.test(ua)){
+        var version = parseFloat(RegExp.\$\1);
         // andriod 2.3
         if(version > 2.3){
           document.write('<meta name="viewport" content="width=' + Fixmobile.width + ', minimum-scale = ' + phoneScale + ', maximum-scale = '+phoneScale+', target-densitydpi=device-dpi">');
@@ -81,6 +81,7 @@
     <strong>你的浏览器似乎禁用了 JavaScript。</strong><br />您必须在浏览器中启用JavaScript才能使用本网站的功能。
   </noscript>
   <div class="container">
+
   </div>
   <script type="text/javascript" src="js/asset.js"></script>
   <script type="text/javascript" src="js/script.js"></script>
