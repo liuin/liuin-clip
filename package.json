@@ -1,7 +1,7 @@
 {
   "name": "liuin-clip",
   "main": "./lib/liuin-clip",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "add snippets",
   "keywords": [],
   "repository": "https://github.com/liuin/liuin-clip",
