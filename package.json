@@ -1,10 +1,10 @@
 {
   "name": "liuin-clip",
   "main": "./lib/liuin-clip",
-  "version": "0.5.0",
-  "description": "A short description of your package",
+  "version": "0.8.2",
+  "description": "add snippets",
   "keywords": [],
-  "repository": "https://atom.io/packages/liuin-clip",
+  "repository": "https://github.com/liuin/liuin-clip",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
