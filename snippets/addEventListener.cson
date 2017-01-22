@@ -1,0 +1,6 @@
+ '*':
+  'addEventListener':
+      'prefix': 'addEventListener'
+      'body': """
+ addEventListener 
+      """

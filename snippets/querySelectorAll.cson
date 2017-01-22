@@ -1,0 +1,6 @@
+ '*':
+  'querySelectorAll':
+      'prefix': 'querySelectorAll'
+      'body': """
+ querySelectorAll($1) 
+      """
