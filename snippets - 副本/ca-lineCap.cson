@@ -1,0 +1,6 @@
+ '*':
+  '上线文中线的端点':
+      'prefix': 'ca-lineCap'
+      'body': """
+ lineCap = 'butt|round|square' 
+      """

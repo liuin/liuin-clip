@@ -1,0 +1,6 @@
+ '.source.css':
+  'css-//截断文字':
+      'prefix': 'css-cuttext'
+      'body': """
+ .textep{overflow:hidden;text-overflow:ellipsis;white-space:nowrap} 
+      """

@@ -1,0 +1,6 @@
+ '*':
+  '填充':
+      'prefix': 'ca-fill'
+      'body': """
+ fill()
+      """

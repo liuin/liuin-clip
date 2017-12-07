@@ -1,0 +1,6 @@
+ '*':
+  '取消网页自动拨号':
+      'prefix': 'meta-telephone=no'
+      'body': """
+ <meta name="format-detection" content="telephone=no"> 
+      """

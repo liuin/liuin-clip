@@ -1,0 +1,6 @@
+ '.text.html, .source.js, .source.css':
+  'js-v':
+      'prefix': 'js-v'
+      'body': """
+ javascript:void(0); 
+      """

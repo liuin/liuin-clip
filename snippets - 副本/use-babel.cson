@@ -1,0 +1,6 @@
+ '*':
+  'use-babel模式':
+      'prefix': 'use-babel'
+      'body': """
+ 'use-babel' 
+      """

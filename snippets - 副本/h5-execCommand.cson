@@ -1,0 +1,18 @@
+ '*':
+  '选中文字加粗':
+      'prefix': 'h5-execCommand'
+      'body': """
+ <!DOCTYPE html>   
+<head>   
+<meta charset="UTF-8">  
+<title>execCommand方法的使用示例</title> 
+<script type="text/javascript">
+function SetToBold () {
+    document.execCommand ('bold', false, null);
+}
+</script>
+</head>
+<body>
+<div contenteditable="true" onmouseup="SetToBold ();">示例文字</div>
+</body> 
+      """

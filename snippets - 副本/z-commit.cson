@@ -1,0 +1,6 @@
+ '.source.css':
+  'css注释':
+      'prefix': 'z-commit'
+      'body': """
+ /*-- ${1:name} --*/ 
+      """

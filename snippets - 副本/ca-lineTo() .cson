@@ -1,0 +1,6 @@
+ '*':
+  '划线':
+      'prefix': 'ca-lineTo() '
+      'body': """
+ lineTo(0,0) 
+      """

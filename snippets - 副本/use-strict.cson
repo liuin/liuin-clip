@@ -1,0 +1,6 @@
+ '*':
+  'use-strict':
+      'prefix': 'use-strict'
+      'body': """
+ 'use strict'
+      """

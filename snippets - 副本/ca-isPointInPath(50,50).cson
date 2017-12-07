@@ -1,0 +1,6 @@
+ '*':
+  '检查一个点是否在当前路径':
+      'prefix': 'ca-isPointInPath(50,50)'
+      'body': """
+ isPointInPath(50,50) 
+      """

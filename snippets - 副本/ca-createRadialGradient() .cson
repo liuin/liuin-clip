@@ -1,0 +1,6 @@
+ '*':
+  '圆心渐变':
+      'prefix': 'ca-createRadialGradient() '
+      'body': """
+ createRadialGradient(${1:xStart},yStart,radiusStart,xEnd,yEnd,radiusEnd); 
+      """

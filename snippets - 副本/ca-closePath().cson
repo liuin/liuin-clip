@@ -1,0 +1,6 @@
+ '*':
+  '关闭路径':
+      'prefix': 'ca-closePath()'
+      'body': """
+ closePath() 
+      """

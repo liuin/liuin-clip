@@ -1,0 +1,12 @@
+ '*':
+  'jScrollPane的query写法':
+      'prefix': 'js-jScrollPane'
+      'body': """
+ $('.scroll-pane').jScrollPane({
+    verticalDragMinHeight: 10,
+    verticalDragMaxHeight: 10,
+    horizontalDragMinWidth: 20,
+    horizontalDragMaxWidth: 20
+    //autoReinitialise: true    如果包含图片则加上 给图片加上高度
+}); 
+      """

@@ -1,0 +1,8 @@
+ '*':
+  'script-babel':
+      'prefix': 'script-babel'
+      'body': """
+ <script type="text/babel">
+  $1
+</script> 
+      """

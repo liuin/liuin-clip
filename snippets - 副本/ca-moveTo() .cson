@@ -1,0 +1,6 @@
+ '*':
+  '移动坐标':
+      'prefix': 'ca-moveTo() '
+      'body': """
+ moveTo(0,0) 
+      """

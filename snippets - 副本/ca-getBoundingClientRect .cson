@@ -1,0 +1,6 @@
+ '*':
+  '获取canva的边界框':
+      'prefix': 'ca-getBoundingClientRect '
+      'body': """
+ getBoundingClientRect() 
+      """

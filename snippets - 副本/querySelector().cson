@@ -1,0 +1,6 @@
+ '*':
+  'querySelector':
+      'prefix': 'querySelector()'
+      'body': """
+ querySelector($1) 
+      """

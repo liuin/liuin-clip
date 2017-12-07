@@ -1,0 +1,6 @@
+ '*':
+  '获取文字的长高':
+      'prefix': 'ca-measureText() '
+      'body': """
+ measureText(txt) 
+      """

@@ -1,0 +1,6 @@
+ '*':
+  '声明UTF格式':
+      'prefix': 'meta-utf'
+      'body': """
+ <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" /> 
+      """

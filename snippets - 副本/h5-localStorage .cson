@@ -1,0 +1,6 @@
+ '*':
+  '本地储存':
+      'prefix': 'h5-localStorage '
+      'body': """
+ localStorage 
+      """

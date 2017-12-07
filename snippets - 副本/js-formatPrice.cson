@@ -1,0 +1,11 @@
+ '*':
+  '价钱转化 12345->12,345':
+      'prefix': 'js-formatPrice'
+      'body': """
+ //价钱转化
+function formatPrice(n, currency) {
+    return currency + " " + n.toFixed(2).replace(/./g, function(c, i, a) {
+        return i > 0 && c !== "." && (a.length - i) % 3 === 0 ? "," + c : c;
+  });
+} 
+      """

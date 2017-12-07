@@ -1,0 +1,6 @@
+ '*':
+  '边框颜色':
+      'prefix': 'ca-strokeStyle'
+      'body': """
+ strokeStyle = "blue"; 
+      """

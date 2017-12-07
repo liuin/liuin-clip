@@ -1,0 +1,6 @@
+ '*':
+  '重新绘制图片像素':
+      'prefix': 'ca-putImageData()'
+      'body': """
+ putImageData(imagedata, 0, 0[,dx,dy,dw,dh]); 
+      """

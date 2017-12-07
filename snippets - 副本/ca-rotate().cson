@@ -1,0 +1,6 @@
+ '*':
+  '旋转':
+      'prefix': 'ca-rotate()'
+      'body': """
+ rotate(Math.PI / 11) 
+      """

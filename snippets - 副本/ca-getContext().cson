@@ -1,0 +1,6 @@
+ '*':
+  'getContext':
+      'prefix': 'ca-getContext()'
+      'body': """
+ getContext('2d') 
+      """

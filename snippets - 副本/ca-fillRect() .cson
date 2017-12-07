@@ -1,0 +1,6 @@
+ '*':
+  '填充矩形':
+      'prefix': 'ca-fillRect() '
+      'body': """
+ fillRect(0,0,400,300) 
+      """

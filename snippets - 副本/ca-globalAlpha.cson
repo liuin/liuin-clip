@@ -1,0 +1,6 @@
+ '*':
+  '设置透明度':
+      'prefix': 'ca-globalAlpha'
+      'body': """
+ globalAlpha = .5 
+      """

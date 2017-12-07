@@ -1,0 +1,6 @@
+ '*':
+  '保存成图像url':
+      'prefix': 'ca-toDataURL()'
+      'body': """
+ toDataURL("image/jpeg") 
+      """

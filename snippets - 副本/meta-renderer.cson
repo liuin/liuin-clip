@@ -1,0 +1,6 @@
+ '*':
+  '360以极速模式运行':
+      'prefix': 'meta-renderer'
+      'body': """
+ <meta name="renderer" content="webkit" /> 
+      """

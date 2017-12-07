@@ -1,0 +1,6 @@
+ '*':
+  '填充路径':
+      'prefix': 'ca-stroke() '
+      'body': """
+ stroke() 
+      """

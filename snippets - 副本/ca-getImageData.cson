@@ -1,0 +1,6 @@
+ '*':
+  '取得区域的像素':
+      'prefix': 'ca-getImageData'
+      'body': """
+ getImageData(sx,sy,sw,sh); 
+      """
